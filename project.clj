@@ -1,4 +1,4 @@
-(defproject potemkin "0.4.2-keldoc-SNAPSHOT"
+(defproject com.keldoc/potemkin "0.4.2-SNAPSHOT"
   :license {:name "MIT License"}
   :description "Some useful facades."
   :dependencies [[clj-tuple "0.2.2"]
